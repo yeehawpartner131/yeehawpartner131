@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @yeehawpartner131
-- 👀 I’m interested in WEEZER
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me yeehawpartner131 on insta
+its me :3
 
 <!---
 yeehawpartner131/yeehawpartner131 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
